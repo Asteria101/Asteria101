@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Asteria101
-- 💻 I am Computer Engineering student
-- 👀 I’m interested in developing my skills, specially in C
-- 🌱 I’m currently learning C and Python
+# **Hi!** <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-<!---
-Asteria101/Asteria101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p aligh="center">
+  My name is Letícia and I am very existed to learn more about backend!
+</p>
+
+### A bit more about me...
+
+```C
+typedef struct Asteria {
+  int age = 18;
+  pronouns = she | her;
+  p_tools tools = [Docker];
+  p_code languages = [C, Python];
+
+  char *major = ["Computer Engeneering"]
+  char *university = ["UNICAMP"]; 
+
+} Letícia;
+```
