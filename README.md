@@ -8,10 +8,10 @@
 
 ```C
 typedef struct Asteria {
-  int age = 18;
+  int age = 19;
   pronouns = she | her;
   p_tools tools = {Docker};
-  p_code languages = {C, Python};
+  p_code languages = {C, Python, Java};
 
   char *major = {"Computer Engeneering"};
   char *university = {"UNICAMP"}; 
