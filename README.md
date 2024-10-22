@@ -11,7 +11,7 @@ typedef struct Asteria {
   int age = 19;
   pronouns = she | her;
   p_tools tools = {Docker};
-  p_code languages = {C, Python, Java};
+  p_code languages = {C, Python, Java, RISC-V Assembly};
 
   char *major = {"Computer Engeneering"};
   char *university = {"UNICAMP"}; 
